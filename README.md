@@ -2,10 +2,7 @@
 A password manager written in Java.
 
 # Current Source Files
-
-
-
-| Core        | Porpuse               |
+| File        | Porpuse               |
 | ------------|-----------------------|
 | Core        | Main File             |
 | PWHANDLE    | Get Master Password   |
